@@ -29,4 +29,4 @@ Construction: See the individual part drawings for more detail on fabricating ea
 
 For inquiries, please contact innovation@janelia.hhmi.org and reference this repository.
 
-To cite the designs, please use DOI: 
+To cite the designs, please use DOI: 10.25378/janelia.28810037
