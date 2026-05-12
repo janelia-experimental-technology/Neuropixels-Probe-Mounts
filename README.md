@@ -6,22 +6,10 @@ Among the most annoying, time-consuming, and risky tasks when using these and si
 
 The technologies offered here are the accessories for mounting these probes and the mounting rod to dovetail adapter for several versions of these probes. These accessories were designed at HHMI's Janelia Research Campus by the Janelia Experimental Technologies group in collaboration with IMEC and end users. The first generation of Neuropixels, 1.0, had a prototype (3A) and production (3B) version. Designs for these versions include the probe holder or mounting rod, the dovetail mount, and the dovetail extension.  We also make available the accessories and assembly for Neuropixels 2.0, including the probe holder/mounting rod, dovetail mount, rod adapter, and assembly instructions. PDF and CAD files are included for convenience.
 
-Opportunity:
+Opportunity: Free to make for Non-Profit Research by downloading the design here. See included hardware license.
+Rights and designs available for Commercial License. Janelia makes no endorsements or guarantees of licensee products.
 
-The Neuropixels Probe Mount for the prototype 3A and production 3B probe designs for Neuropixels 1.0 and the Neuropixels Probe Mount for Neuropixels 2.0 can be obtained for free in this repository. The designs were originally posted on the Flintbox and other pages linked below:
-
-Neuropixels 1.0 prototype (3A) probe mount designs: http://bit.ly/jNeuropixels3Amounts
-
-Neuropixels 1.0 production (3B) probe mount designs: http://bit.ly/jNeuropixels3Bmount20
-
-Neuropixels 2.0 probe mount designs: http://bit.ly/jNeuropixels2Mounts
-
-Dovetail mounting and sharpening instructions: http://bit.ly/jNeuropixelsMountingSharpening
-
-Neuropixel probes are now available in limited quantities from IMEC: Neuropixels.org
-
-Neuropixels Technology Ready for Release
-
+Neuropixel probes are available from IMEC: Neuropixels.org
 
 Advantages: These accessories allow use of probes that did not originally ship with integrated dovetail mounting features. 
 
